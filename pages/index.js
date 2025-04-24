@@ -68,7 +68,7 @@ export default function Home() {
               Program Manager, Business Analyst & Graphics Designer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Professional logo designer and business analyst providing creative solutions and strategic insights. Let's collaborate to bring your vision to life!
+              Professional logo designer and business analyst providing creative solutions and strategic insights. Let&apos;s collaborate to bring your vision to life!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <AiFillTwitterCircle />
@@ -84,7 +84,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              With extensive experience in semiconductor program management and business analytics, I've successfully delivered projects for
+              With extensive experience in semiconductor program management and business analytics, I&apos;ve successfully delivered projects for
               <span className="text-teal-500"> Fortune 500 companies </span>
               and collaborated with <span className="text-teal-500">innovative startups </span>
               to drive technological advancement and business growth.
@@ -141,7 +141,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white">Portfolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, I&apos;ve done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talented people to create digital products
@@ -252,7 +252,7 @@ export default function Home() {
               </button>
               <h3 className="text-3xl py-1 dark:text-white mb-4">Contact Me</h3>
               <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200 mb-6">
-                Let's work together! Feel free to reach out for collaborations or just a friendly hello.
+                Let&apos;s work together! Feel free to reach out for collaborations or just a friendly hello.
               </p>
               <form className="flex flex-col gap-4" action="https://formspree.io/f/xeogqbpr" method="POST">
                 <div className="flex flex-col gap-2">
